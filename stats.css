@@ -1,0 +1,139 @@
+/* stats.css */
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.image-container {
+  flex: 1; /* Takes up 1/3 of the available space */
+}
+
+.image-container img {
+  max-width: 550px;
+  min-height: 500px;
+  margin-left: 6em;
+  margin-top: 2em;
+  background-size: cover;
+}
+
+.paragraphs-container {
+  flex: 2; /* Takes up 2/3 of the available space */
+  padding: 10px 20px; /* Adjust spacing as needed */
+ 
+ 
+}
+
+.paragraphs-container p {
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+/* Specific styling for the paragraphs */
+
+
+/* Additional styling for the emoji */
+.smile-icon {
+  font-size: 24px;
+  margin-left: 5px;
+}
+.first{
+  display: flex;
+  
+}
+
+.second{
+  display: flex;
+}
+.flex-container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.image-container {
+  margin-right: 5%;
+}
+
+.wide-container {
+  width: 70%;
+}
+
+.space-between-paragraphs {
+  margin-bottom: 1rem;
+}
+
+.paragraphs-container{
+  margin-top: 10em;
+  
+}
+
+/* stats.css */
+
+/* Increase the size of Bootstrap icons */
+.bi-emoji-smile,
+.bi-journal-richtext,
+.bi-clock,
+.bi-award {
+  font-size: 36px; /* Adjust the font-size as needed */
+}
+
+/* Change the color of Bootstrap icons */
+.bi-emoji-smile {
+  color: #ffc451;/* Set the desired color for the smile icon */
+  margin-left: 10px;
+
+}
+
+.bi-journal-richtext {
+  color: #ffc451; /* Set the desired color for the journal icon */
+  margin-left: 40px;
+}
+
+.bi-clock {
+  color: #ffc451; /* Set the desired color for the clock icon */
+ 
+}
+
+.bi-award {
+  color: #ffc451; /* Set the desired color for the award icon */
+}
+
+/* Adjust styles for the paragraphs if needed */
+.paragraphs-container p {
+  margin-bottom: 20px;
+}
+p{
+  align-items: start;
+}
+
+/* stats.css */
+
+/* Style individual paragraphs */
+.happy-clients {
+  margin-bottom: 2px; 
+  margin-left: 2px;/* Adjust the margin as needed */
+}
+
+.projects {
+  margin-top: 15px;
+  margin-left: 8px; /* Adjust the margin as needed */
+}
+
+.experience {
+  margin-top: 15px;
+  margin-left: 8px; /* Adjust the color as needed */
+}
+
+.awards {
+  margin-top: 15px;
+  margin-left: 8px; /* Adjust the style as needed */
+}
+
+/* stats.css */
+.header {
+  margin-top: -50px; /* Adjust this value as needed */
+  font-weight: bold;
+}
+
+
+
